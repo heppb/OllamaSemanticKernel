@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SKOllamaAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fdc609605eeab0a54bbffd75bf3ae880bd5fe51")]
 [assembly: System.Reflection.AssemblyProductAttribute("SKOllamaAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SKOllamaAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

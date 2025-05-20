@@ -40,3 +40,4 @@ C:\Users\Brian Hepp\Desktop\CodeProjects\OllamaSemanticKernel\SKOllamaAgent\obj\
 C:\Users\Brian Hepp\Desktop\CodeProjects\OllamaSemanticKernel\SKOllamaAgent\obj\Debug\net9.0\SKOllamaAgent.pdb
 C:\Users\Brian Hepp\Desktop\CodeProjects\OllamaSemanticKernel\SKOllamaAgent\obj\Debug\net9.0\SKOllamaAgent.genruntimeconfig.cache
 C:\Users\Brian Hepp\Desktop\CodeProjects\OllamaSemanticKernel\SKOllamaAgent\obj\Debug\net9.0\ref\SKOllamaAgent.dll
+C:\Users\Brian Hepp\Desktop\CodeProjects\OllamaSemanticKernel\SKOllamaAgent\obj\Debug\net9.0\SKOllamaAgent.sourcelink.json
